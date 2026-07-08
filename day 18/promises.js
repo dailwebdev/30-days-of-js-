@@ -1,4 +1,4 @@
-//Callback
+//Callback - example
 const doSomething = callback => {
   setTimeout(() => {
     const skills = ['HTML', 'CSS', 'JS']
